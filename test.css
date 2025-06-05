@@ -1,0 +1,10 @@
+.div{
+    background-color: lightblue;
+    background-image: url(img/FZ\ boutique.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:100%;
+    background-attachment: fixed ;
+    height: 200px;
+
+}
